@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, Vue and Go**
 
-- 📝 I regulary write articles on [https://github.com/BillWilson/Blog](https://github.com/BillWilson/Blog)
+- 📝 I regulary write articles on [https://bill.zxcv.today](https://bill.zxcv.today)
 
 - 💬 Ask me about **PHP**
 
